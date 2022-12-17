@@ -1,1 +1,1 @@
-# 2d-runner-game
+# Detective-Pikachu-2D-Game
